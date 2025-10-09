@@ -1,0 +1,110 @@
+[
+  {
+    "id": "1001",
+    "title": "Login Issues - Can't Access Account",
+    "description": "Customer is unable to log in after multiple password reset attempts.",
+    "customer": "John Smith",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "15-01-2024"
+  },
+  {
+    "id": "1002",
+    "title": "Billing Error - Double Charged",
+    "description": "Customer reports being charged twice for their monthly subscription.",
+    "customer": "Emily Johnson",
+    "priority": "Medium",
+    "status": "In Progress",
+    "createdAt": "02-02-2024"
+  },
+  {
+    "id": "1003",
+    "title": "Feature Request - Dark Mode",
+    "description": "Customer would like to see an option for dark mode in the mobile app.",
+    "customer": "Michael Brown",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "10-03-2024"
+  },
+  {
+    "id": "1004",
+    "title": "Payment Declined",
+    "description": "Customer is unable to update their payment method; system keeps declining.",
+    "customer": "Sarah Davis",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "18-04-2024"
+  },
+  {
+    "id": "1005",
+    "title": "Mobile App Crash on Startup",
+    "description": "The app crashes immediately upon launch on Android version 12.",
+    "customer": "David Wilson",
+    "priority": "High",
+    "status": "Open",
+    "createdAt": "01-05-2024"
+  },
+  {
+    "id": "1006",
+    "title": "Unable to Download Invoice",
+    "description": "Customer cannot download their invoice from the billing portal.",
+    "customer": "Sophia Martinez",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "20-05-2024"
+  },
+  {
+    "id": "1007",
+    "title": "Email Notifications Not Working",
+    "description": "Customer stopped receiving order confirmation emails.",
+    "customer": "James Anderson",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "02-06-2024"
+  },
+  {
+    "id": "1008",
+    "title": "Account Suspended by Mistake",
+    "description": "Customer account flagged for suspicious activity, but they claim it’s a mistake.",
+    "customer": "Olivia Thompson",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "18-06-2024"
+  },
+  {
+    "id": "1009",
+    "title": "Slow Website Loading",
+    "description": "Customer reports extremely slow loading times on product pages.",
+    "customer": "William Clark",
+    "priority": "Medium",
+    "status": "Open",
+    "createdAt": "01-07-2024"
+  },
+  {
+    "id": "1010",
+    "title": "Refund Not Processed",
+    "description": "Customer requested a refund two weeks ago but has not received it.",
+    "customer": "Ava Rodriguez",
+    "priority": "High",
+    "status": "In Progress",
+    "createdAt": "15-07-2024"
+  },
+  {
+    "id": "1011",
+    "title": "App Freezing During Checkout",
+    "description": "Customer unable to complete purchase due to app freezing on checkout.",
+    "customer": "Ethan Lee",
+    "priority": "Low",
+    "status": "Open",
+    "createdAt": "05-08-2024"
+  },
+  {
+    "id": "1012",
+    "title": "Profile Picture Not Updating",
+    "description": "Customer reports their profile picture does not change after upload.",
+    "customer": "Isabella Harris",
+    "priority": "Low",
+    "status": "In Progress",
+    "createdAt": "20-08-2024"
+  }
+]
