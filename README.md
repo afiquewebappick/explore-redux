@@ -36,6 +36,7 @@ This interactive system helps visualize the flow of support operations, from ope
 - **React Hooks (useState)** – Managing component states  
 - **React-Toastify** – Toast notifications  
 - **CSS / Tailwind CSS** – Responsive and aesthetic styling  
+- **Daisy UI** – Component styling 
 - **JavaScript (ES6)** – Dynamic logic handling and state updates  
 
 ---
