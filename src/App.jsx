@@ -32,10 +32,6 @@ function App() {
     setTickets(issues);
   }, [issues]);
 
-  // useEffect(() => {
-  //   setTickets(issues);
-  // }, [issues]);
-
   const handleTasks = (issue) => {
     setTasks([...tasks, issue]);
   };
